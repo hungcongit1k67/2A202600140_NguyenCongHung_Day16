@@ -13,13 +13,13 @@ Reframed as a product opportunity (tái định nghĩa thành cơ hội sản ph
 
 ---
 
-## 2. Customer / Segment Card
-- **Segment name**: Chủ shop online nhỏ (Shopee/Facebook/TikTok)
-- **Operational context**: Shop bán hàng online nhận nhiều tin nhắn mỗi ngày, chủ yếu hỏi lặp lại về giá, size, màu sắc, phí ship, còn hàng không.
-- **Recurring workflow**: Khách nhắn tin → Chủ shop đọc và trả lời thủ công → Chốt đơn → Lặp lại mỗi ngày.
-- **Pain moment**: Vào giờ cao điểm (trưa, tối, livestream), chủ shop không thể trả lời kịp, dẫn đến mất đơn hàng và giảm trải nghiệm khách hàng.
-- **Why now**: AI đã đủ mạnh để tự động hóa việc trả lời tin nhắn, giúp các shop nhỏ tiết kiệm thời gian và tăng hiệu quả công việc, đặc biệt là trong bối cảnh bán hàng online đang bùng nổ.
-- **Access path**: Nhóm khách hàng có thể được tiếp cận qua các nhóm bán hàng online trên Facebook, TikTok, hoặc Shopee, cùng với việc làm demo miễn phí cho shop online.
+## 2. Customer / Segment Card (Thẻ khách hàng / Phân khúc khách hàng)
+- **Segment name (Tên phân khúc)**: Chủ shop online nhỏ (Shopee/Facebook/TikTok)
+- **Operational context (Bối cảnh vận hành)**: Shop bán hàng online nhận nhiều tin nhắn mỗi ngày, chủ yếu hỏi lặp lại về giá, size, màu sắc, phí ship, còn hàng không.
+- **Recurring workflow (Quy trình lặp lại)**: Khách nhắn tin → Chủ shop đọc và trả lời thủ công → Chốt đơn → Lặp lại mỗi ngày.
+- **Pain moment (Điểm đau)**: Vào giờ cao điểm (trưa, tối, livestream), chủ shop không thể trả lời kịp, dẫn đến mất đơn hàng và giảm trải nghiệm khách hàng.
+- **Why now (Tại sao bây giờ)**: AI đã đủ mạnh để tự động hóa việc trả lời tin nhắn, giúp các shop nhỏ tiết kiệm thời gian và tăng hiệu quả công việc, đặc biệt là trong bối cảnh bán hàng online đang bùng nổ.
+- **Access path (Con đường tiếp cận)**: Nhóm khách hàng có thể được tiếp cận qua các nhóm bán hàng online trên Facebook, TikTok, hoặc Shopee, cùng với việc làm demo miễn phí cho shop online.
 
 **One-sentence description**:  
 > Shop online nhỏ bị quá tải tin nhắn vào giờ cao điểm, không thể trả lời kịp, dẫn đến mất đơn hàng.
@@ -28,21 +28,21 @@ Reframed as a product opportunity (tái định nghĩa thành cơ hội sản ph
 
 ## 3. Need Map (2–3 needs)
 ### Need #1 (priority)
-- **Statement (JTBD)**: When a shop receives a high volume of messages during peak hours, I want to automatically respond to customer inquiries, so I can prevent lost sales.
+- **Statement (JTBD)**: **When** a shop receives a high volume of messages during peak hours, **I want** to automatically respond to customer inquiries, **so I can** prevent lost sales (Khi một shop nhận lượng tin nhắn lớn trong giờ cao điểm, tôi muốn tự động trả lời các câu hỏi của khách hàng, để tôi có thể ngăn chặn việc mất đơn hàng).
 - **Current workaround**: Chủ shop trả lời thủ công, hoặc sử dụng tin nhắn mẫu, hoặc thuê người trực chat.
 - **Pain signal**: Mất đơn hàng do khách không được trả lời kịp thời, giảm tỷ lệ chuyển đổi.
 - **Evidence / proxy evidence**: Nhiều bài đăng trong các nhóm bán hàng online về việc không thể trả lời tin nhắn kịp, dẫn đến mất đơn hàng.
 - **Why underserved**: Hiện nay, chatbots tự động trả lời chưa đủ thông minh để xử lý ngữ cảnh và câu hỏi đa dạng.
 
 ### Need #2
-- **Statement (JTBD)**: When customers ask repetitive questions (like price, size, color), I want to automatically provide answers, so I can save time and focus on closing sales.
+- **Statement (JTBD)**: **When** customers ask repetitive questions (like price, size, color), **I want** to automatically provide answers, **so I can** save time and focus on closing sales (Khi khách hàng hỏi những câu hỏi lặp lại (như giá, size, màu sắc), tôi muốn tự động cung cấp câu trả lời, để tôi có thể tiết kiệm thời gian và tập trung vào việc chốt đơn).
 - **Current workaround**: Sử dụng tin nhắn mẫu, copy-paste câu trả lời mỗi ngày.
 - **Pain signal**: Mất thời gian để trả lời những câu hỏi giống nhau liên tục.
 - **Evidence / proxy evidence**: 70–80% câu hỏi inbox là lặp lại, nhiều shop phải tìm cách giải quyết thủ công hoặc qua hệ thống chatbot cứng nhắc.
 - **Why underserved**: Hệ thống chatbot hiện tại chỉ giải quyết được những câu hỏi đơn giản và không thể xử lý ngữ cảnh.
 
 ### Need #3 (optional)
-- **Statement (JTBD)**: When the shop is closed or during non-operational hours, I want to ensure customers still receive answers and do not lose interest, so I can maintain sales even when offline.
+- **Statement (JTBD)**: **When** the shop is closed or during non-operational hours, **I want** to ensure customers still receive answers and do not lose interest, **so I can** maintain sales even when offline (Khi shop đóng cửa hoặc trong giờ không hoạt động, tôi muốn đảm bảo khách hàng vẫn nhận được câu trả lời và không mất hứng, để tôi có thể duy trì doanh số ngay cả khi không online).
 - **Current workaround**: Đặt chế độ trả lời tự động cơ bản như "Chúng tôi sẽ phản hồi bạn sớm".
 - **Pain signal**: Mất cơ hội bán hàng vào ban đêm hoặc khi shop không online.
 - **Evidence / proxy evidence**: Các shop bán hàng online lớn luôn phải thuê người trực chat 24/7 hoặc không trả lời kịp.
@@ -51,16 +51,21 @@ Reframed as a product opportunity (tái định nghĩa thành cơ hội sản ph
 ---
 
 ## 4. Strategy Statement
-For small online shop owners  
-who struggle with responding to customer inquiries during peak hours,  
-our product helps them automatically respond to customer questions  
-through a smart AI chatbot that understands natural language,  
-unlike current chatbots that require manual setup and provide rigid responses,  
-because we leverage AI's ability to understand and adapt to real-time conversations.
+**For** small online shop owners  
+**who struggle with** responding to customer inquiries during peak hours,  
+**our product helps them** automatically respond to customer questions  
+**through** a smart AI chatbot that understands natural language,  
+**unlike** current chatbots that require manual setup and provide rigid responses,  
+**because we can leverage** AI's ability to understand and adapt to real-time conversations.
 
+>Dành cho chủ shop online nhỏ  
+những người gặp khó khăn trong việc trả lời các câu hỏi của khách hàng vào giờ cao điểm,  
+sản phẩm của chúng tôi giúp họ tự động trả lời các câu hỏi của khách hàng   thông qua một chatbot AI thông minh hiểu ngôn ngữ tự nhiên,  
+không giống như các chatbot hiện tại yêu cầu thiết lập thủ công và cung cấp phản hồi cứng nhắc,  
+bởi vì chúng tôi có thể tận dụng khả năng của AI để hiểu và thích ứng với các cuộc trò chuyện theo thời gian thực.
 ---
 
-## 5. Moat Hypothesis
+## 5. Moat Hypothesis (giả thuyết về lợi thế bền vững)
 **Moat mechanism**: Domain-learning flywheel  
 If we deploy this product 50 times in the same vertical (e.g. small online stores), the following things get systematically better:
 1. Chatbot accuracy improves with more interactions.
